@@ -1,0 +1,26 @@
+FID,Species,Intensity
+Nursery_Grounds_2010.1,Cod,L
+Nursery_Grounds_2010.2,Cod,H
+Nursery_Grounds_2010.3,Spurdog,L
+Nursery_Grounds_2010.4,Spurdog,H
+Nursery_Grounds_2010.21,Undulate ray,L
+Nursery_Grounds_2010.22,Blue whiting,L
+Nursery_Grounds_2010.5,Tope shark,L
+Nursery_Grounds_2010.6,Herring,L
+Nursery_Grounds_2010.7,Herring,H
+Nursery_Grounds_2010.8,European hake,L
+Nursery_Grounds_2010.9,Ling,L
+Nursery_Grounds_2010.10,Mackerel,H
+Nursery_Grounds_2010.11,Mackerel,L
+Nursery_Grounds_2010.12,Anglerfish,L
+Nursery_Grounds_2010.13,Anglerfish,H
+Nursery_Grounds_2010.14,Plaice,L
+Nursery_Grounds_2010.15,Sandeel,L
+Nursery_Grounds_2010.16,Spotted ray,L
+Nursery_Grounds_2010.17,Common skate,L
+Nursery_Grounds_2010.18,Sole,L
+Nursery_Grounds_2010.19,Sole,H
+Nursery_Grounds_2010.20,Thornback ray,L
+Nursery_Grounds_2010.23,Blue whiting,H
+Nursery_Grounds_2010.24,Whiting,L
+Nursery_Grounds_2010.25,Whiting,H
