@@ -5,8 +5,4 @@ dependencies:
   - pandas
   - scipy
   - numpy
-  - notebook
-  - jupyter
-  - spyder
-  - rise
   - netcdf4
