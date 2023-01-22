@@ -8,7 +8,7 @@ If you haven't downloaded Anaconda yet you can access the interactive notebooks 
 
 *Seminar 1: Installation, set up & package management using Anaconda* See the pdf in this github repository. 
 
-*Seminar 2: The Basics and Importing Data* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nia-jones/py4OceanSci/HEAD)
+*Seminar 2: The Basics and Importing Data*  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nia-jones/py4OceanSci/HEAD)
 
 *Seminar 3: Introduction to data analysis* 
 
