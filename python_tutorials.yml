@@ -1,0 +1,14 @@
+name: python_tutorials
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - pandas
+  - scipy
+  - numpy
+  - notebook
+  - jupyter
+  - spyder
+  - rise
+  - netcdf4
+prefix: /Users/niajones/opt/anaconda3/envs/python_tutorials
