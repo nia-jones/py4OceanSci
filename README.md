@@ -2,7 +2,9 @@
 
 A repository for the Introductory Python for Ocean Sciences Seminar series held within the School of Ocean Sciences, Bangor University. 
 
-Access the interactive notebooks either by clicking the Binder links below or use Google Colab (https://colab.research.google.com/) if you have a google account. Simply paste the link to this repository (https://github.com/nia-jones/py4OceanSci) in the github section when you open a new notebook and you'll be able to access them. 
+🌊 🐠 🌊 🐠 🌊 🐠 🌊 🐠 🌊
+
+If you haven't downloaded Anaconda yet you can access the interactive notebooks either by clicking the Binder links below or use Google Colab (https://colab.research.google.com/) if you have a google account. Simply paste the link to this repository (https://github.com/nia-jones/py4OceanSci) in the github section when you open a new notebook and you'll be able to access them. 
 
 *Seminar 1: Installation, set up & package management using Anaconda* See the pdf in this github repository. 
 
