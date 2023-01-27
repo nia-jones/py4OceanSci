@@ -8,7 +8,7 @@ If you haven't downloaded Anaconda yet you can access the interactive notebooks 
 
 *Seminar 1: Installation, set up & package management using Anaconda* See the pdf in this github repository. 
 
-*Seminar 2: The Basics and Importing Data*  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nia-jones/py4OceanSci/blob/main/Basics_and_ImportingData.ipynb)
+*Seminar 2: The Basics and Importing Data*:     [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nia-jones/py4OceanSci/blob/main/Basics_and_ImportingData.ipynb)
 
 *Seminar 3: Introduction to data analysis* 
 
