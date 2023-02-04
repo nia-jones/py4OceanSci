@@ -10,6 +10,6 @@ For quick access to the interactive notebooks click on the 'Open in Colab' butto
 
 *Seminar 2: The Basics and Importing Data*:     [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nia-jones/py4OceanSci/blob/main/Basics_and_ImportingData.ipynb)
 
-*Seminar 3: Introduction to data analysis*:  [![Open in Colab](https://colab.research.google.com/github/nia-jones/py4OceanSci/blob/main/3_DataAnalysisAndPlotting.ipynb)
+*Seminar 3: Introduction to data analysis*:  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nia-jones/py4OceanSci/blob/main/3_DataAnalysisAndPlotting.ipynb)
 
 *Seminar 4: Data Visualization*
